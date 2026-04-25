@@ -2,7 +2,7 @@
     "packages": {
         "calc": {
             "name": "calc",
-            "id": "1"
+            "id": 1
         }
     }
 }
