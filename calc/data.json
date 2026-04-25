@@ -4,5 +4,5 @@
     "id": 1,
     "description": "A simple calculator application made in C++",
     "main": "calc.exe",
-    "owner_name": "Spatulari"
+    "owner_name": "spatulari"
 }
