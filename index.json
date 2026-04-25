@@ -3,6 +3,10 @@
         "calc": {
             "name": "calc",
             "id": 1
+        },
+        "hello_world": {
+            "name": "hello_world",
+            "id": 2
         }
     }
 }
