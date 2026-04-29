@@ -7,6 +7,10 @@
         "hello_world": {
             "name": "hello_world",
             "id": 2
+        },
+        "locc": {
+            "name": "locc",
+            "id": 3
         }
     }
 }
