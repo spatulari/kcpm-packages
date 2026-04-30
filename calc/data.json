@@ -1,6 +1,6 @@
 {
     "name": "calc",
-    "version": "1.0.0",
+    "version": "1.1.2",
     "id": 1,
     "description": "A simple calculator application made in C++",
     "main": "calc.exe"
