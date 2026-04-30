@@ -1,6 +1,6 @@
 {
     "name": "hello_world",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "id": 2,
     "description": "A simple hello_world",
     "main": "main.exe"
