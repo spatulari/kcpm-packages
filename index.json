@@ -2,15 +2,13 @@
     "packages": {
         "calc": {
             "name": "calc",
-            "id": 1
+            "id": 1,
+            "version": "1.0.0"
         },
         "hello_world": {
             "name": "hello_world",
-            "id": 2
-        },
-        "locc": {
-            "name": "locc",
-            "id": 3
+            "id": 2,
+            "version": "1.0.0"
         }
     }
 }

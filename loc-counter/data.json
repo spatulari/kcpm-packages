@@ -1,8 +1,0 @@
-{
-    "name": "locc",
-    "version": "1.0.0",
-    "id": 3,
-    "description": "A simple lines of code counter",
-    "main": "locc.exe",
-    "owner_name": "spatulari"
-}

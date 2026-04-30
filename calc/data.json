@@ -3,6 +3,5 @@
     "version": "1.0.0",
     "id": 1,
     "description": "A simple calculator application made in C++",
-    "main": "calc.exe",
-    "owner_name": "spatulari"
+    "main": "calc.exe"
 }

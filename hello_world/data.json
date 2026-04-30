@@ -3,6 +3,5 @@
     "version": "1.0.0",
     "id": 2,
     "description": "A simple hello_world",
-    "main": "main.exe",
-    "owner_name": "spatulari"
+    "main": "main.exe"
 }
